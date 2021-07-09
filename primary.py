@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: <Orion J>
+# date: <July 8th, 2021>
 
 # -------------------- Section 1 -------------------- #
 
@@ -17,6 +17,9 @@
 #   deppe, elia
 #
 # ---- WRITE CODE BELOW ---- #
+last_name = 'Jones'
+first_name = 'Orion'
+
 
 
 #   2. Pyramid
@@ -34,6 +37,12 @@
 #   $
 #
 # ---- WRITE CODE BELOW ---- #
+exclamation = '!'
+      !
+      !!
+      !!!
+      !!
+      !
 
 
 #   3. Parallelogram
@@ -53,7 +62,15 @@
 #      @
 #
 # ---- WRITE CODE BELOW ---- #
+symbol = '#'
 
+    #
+#   ##
+#   ###
+#   ####
+#    ###
+#     ##
+#      #
 
 # -------------------- Section 2 -------------------- #
 
@@ -91,6 +108,9 @@
 #   diameter = 24.6
 #
 # ---- WRITE CODE BELOW ---- #
+def radius()
+      print(12.3)
+      print(24.6)
 
 
 # Objectives:
@@ -111,6 +131,10 @@
 #   area of the circle: 6134.4296
 #
 # ---- WRITE CODE BELOW ---- #
+def radius()
+      print(3.14)
+
+def area_circle(500)
 
 
 # -------------------- Section 4 -------------------- #
